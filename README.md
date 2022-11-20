@@ -9,7 +9,10 @@
 
 ### Install dependencies
 ```sh
-npm i 
+npm i
+```
+Or
+```sh
 pnpm i
 ```
 Use the package manager of your choise
